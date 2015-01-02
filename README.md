@@ -3,4 +3,4 @@ LeagueSharp
 
 LS
 
-The following stuff present in this github is open source. 
+The Files In This GitHub Are Open Sourced. Made By LoLPoros :) 
